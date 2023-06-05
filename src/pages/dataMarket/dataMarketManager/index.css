@@ -1,0 +1,32 @@
+.fontFam{
+  font-family: Microsoft Yahei;
+  font-weight: bold;
+}
+
+.right{
+  position: relative;
+  text-align: right;
+  top: -134px;
+}
+
+.left{
+  position: relative;
+  margin-left: -20px;
+  top: -94px;
+  height: 30px;
+  font-family: Microsoft Yahei;
+  font-weight: bold;
+}
+
+.input_search{
+  width: 412px;
+  height: 34px;
+  margin-right: 8px;
+}
+
+.center{
+  background-color: white;
+  height:100%;
+  text-align: center;
+  padding:100px 0;
+}
